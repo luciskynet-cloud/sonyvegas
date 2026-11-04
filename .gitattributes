@@ -1,0 +1,7 @@
+# Project-specific overrides
+docs/*.html linguist-vendored
+
+*.tsx linguist-detectable
+
+*.yml linguist-detectable=false
+* text=auto eol=lf
